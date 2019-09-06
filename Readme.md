@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/26/user/1043639).
+* Студент: [Елена Эндеберя](https://up.htmlacademy.ru/htmlcss/26/user/1043639).
+* Наставник: [Валерий Хаслер](https://htmlacademy.ru/profile/id224163).
 
 ---
 
